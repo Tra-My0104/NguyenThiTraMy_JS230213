@@ -1,3 +1,4 @@
+
 .textNote{
   margin-left: 400px;
   margin-top: 80px;
@@ -5,10 +6,41 @@
   padding: 10px;
 }
 
-.btn{
-    background-color: orange;
-    color: #ffffff;
-    border-radius: 50px;
+.btn-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 38%;
+    left: 62%;
+    padding: 5px;
+    width: 35px;
+    height: 35px;
     position: absolute;
-    margin-top: 100px;
+    border-radius: 50px;
+    background-color: #f1b710;
+    border: none;
 }
+
+.btn-btn:hover{
+     background-color: rgb(183, 183, 183);
+}
+
+.boxText{
+   height: 100px;
+   width: 300px;
+   background-color: #ffffff;
+   margin-top: 50px;
+   border-radius: 5px;
+   font-size: larger;
+   padding: 5px;
+   display: flex;
+}
+
+.fa-solid .fa-trash{
+    color: #f1be04 !important;
+}
+
+.btnDelete{
+    margin-left: 250px;
+}
+
