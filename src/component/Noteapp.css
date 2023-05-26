@@ -1,0 +1,9 @@
+.navbar{
+    background-color: rgb(255, 187, 0) !important;
+}
+
+.navbar-brand{
+    color: #ffffff;
+    margin-left: 50px;
+    font-size: x-large !important;
+}

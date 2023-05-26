@@ -1,0 +1,14 @@
+.textNote{
+  margin-left: 400px;
+  margin-top: 80px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.btn{
+    background-color: orange;
+    color: #ffffff;
+    border-radius: 50px;
+    position: absolute;
+    margin-top: 100px;
+}
